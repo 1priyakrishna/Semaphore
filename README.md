@@ -4,7 +4,7 @@ Cyber bullying involves posting and sharing wrong, private, negative, harmful in
 
 # Solution:
 
-As we are in the world lead by technology and people are using different gadget such as laptop,mobile phone,ipad etc. which are connected to the online network. so with the help of these tools and technologies people are bullying by using harsh words through comments,tweets,messsages,memes,etc. In order to overcome this problem we created a website which include twitter API and many more features. This website contains meaningful information to get rid against cyber bullying as well.
+As we are in the world lead by technology and people are using different gadget such as laptop,mobile phone,ipad etc. which are connected to the online network. so with the help of these tools and technologies people are bullying by using harsh words through comments,tweets,messsages,memes,etc. In order to overcome this problem we created a website which include twitter API under which auto bots will reply accordingly if harsh words/sentences are used.Bad words will be detected from the dictionary that we created. This website contains meaningful information to get rid against cyber bullying as well.
 
 # Features of web application:
 1. Naive Bayes Machine Learning Classifier to detect if a message is harrasment or not.
@@ -12,5 +12,16 @@ As we are in the world lead by technology and people are using different gadget 
 3. Integration of Twitter API to classify a Tweet as Cyber Bullying or not, along with a personal notification sent to the user.
 4. Cyber Bulling comments Dataset (Kaggle).
 5. Email.js API used in the contact form so that users can directly contact helpline agencies that are ready to collaborate and the victim    can direct to mail to the cyber crime investigation authorities.
+
+# Tools used:
+
+Programming Langugage: Python
+
+Scripting Language: HTML,php,css,js
+
+Tool used for localhost: xampp
+
+
+
 
 
