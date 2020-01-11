@@ -1,14 +1,8 @@
-# Semaphore
-## Anti-Cyber Bullying
-
-1.Creating a ChatBot application using python GUI and python based web socket.
-
-2.We are going to integrate Twitter API to classify wheher the tweet is considered as cyber bullying or not. And a personal message will be sent to the user. These tweets are classified using Naive Bayes Classifier.
-
-
-3.Dataset for Cyber Bullying tweets/comments is taken from Kaggle.
-
-
-4.EmailJS API is used in the contact form so that users can directly contact helpline agencies that are ready to collaborate.
-
+Features:
+1. Naive Bayes Machine Learning Classifier to detect if a message is harrasment or not.
+2. Chat Application developed using Python GUI (tkinter) and Python based Web Socket.
+3. Integration of Twitter API to classify a Tweet as Cyber Bullying or not, along with a personal notification sent to the user.
+4. Cyber Bulling comments Dataset (Kaggle)
+5. Real time web scrapping of latest Cyber Bullying news (https://timesofindia.indiatimes.com/topic/cyberbullying)
+6. Email.js API used in the contact form so that users can directly contact helpline agencies that are ready to collaborate.
 
